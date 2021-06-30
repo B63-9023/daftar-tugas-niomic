@@ -63,6 +63,6 @@
 <li><a href="https://github.com/B63-9023/tugas-css-28">Tugas 28 CSS</a> - Bootstrap</li>
 <li><a href="https://github.com/B63-9023/tugas-css-29">Tugas 29 CSS</a> - Semantic UI.</li>
 <li><a href="https://github.com/B63-9023/tugas-css-30">Tugas 30 CSS</a> - Materialize CSS.</li>
-<li><a href="https://github.com/B63-9023/tugas-css-31">Tugas Akhir CSS</a></li>
+<li><a href="https://github.com/B63-9023/tugas-css-31">Tugas 31 CSS</a> - Contoh Website</li>
 </ul>
 
