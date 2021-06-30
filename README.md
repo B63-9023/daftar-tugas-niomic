@@ -1,4 +1,4 @@
-# DAFTAR TUGAS NIOMIC - B63-9023
+<h3><label style="padding-left: 85px;"><img src="https://s3-ap-southeast-1.amazonaws.com/niomic/img-v1/c_icon.png" width="35" />&nbsp; DAFTAR TUGAS NIOMIC - B63-9023</label></h3>
 
 <h3>==================================</h3>
 <h3>1. HTML</h3>
