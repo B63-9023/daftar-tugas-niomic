@@ -58,7 +58,7 @@
 <li><a href="https://github.com/B63-9023/tugas-css-23">Tugas 23 CSS</a> - Bootstrap</li>
 <li><a href="https://github.com/B63-9023/tugas-css-24">Tugas 24 CSS</a> - Bootstrap</li>
 <li><a href="https://github.com/B63-9023/tugas-css-25">Tugas 25 CSS</a> - Bootstrap</li>
-<li><a href="https://github.com/B63-9023/tugas-css-25">Tugas 26 CSS</a> - Bootstrap Images.</li>
+<li><a href="https://github.com/B63-9023/tugas-css-26">Tugas 26 CSS</a> - Bootstrap Images.</li>
 <li><a href="https://github.com/B63-9023/tugas-css-27">Tugas 27 CSS</a> - Bootstrap Grid.</li>
 <li><a href="https://github.com/B63-9023/tugas-css-28">Tugas 28 CSS</a> - Bootstrap</li>
 <li><a href="https://github.com/B63-9023/tugas-css-29">Tugas 29 CSS</a> - Semantic UI.</li>
