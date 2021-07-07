@@ -65,4 +65,15 @@
 <li><a href="https://github.com/B63-9023/tugas-css-30">Tugas 30 CSS</a> - Materialize CSS.</li>
 <li><a href="https://github.com/B63-9023/tugas-css-31">Tugas 31 CSS</a> - Contoh Website</li>
 </ul>
-
+<h3>3. PHP</h3>
+<ul>
+<li><a href="https://github.com/B63-9023/tugas-php-01">Tugas 1 CSS</a> - Membuat Tabel dengan Fungsi Output.</li>
+<li><a href="https://github.com/B63-9023/tugas-php-02">Tugas 2 CSS</a> - Operator Aritmatika.</li>
+<li><a href="https://github.com/B63-9023/tugas-php-03">Tugas 3 CSS</a> - Operator Aritmatika.</li>
+<li><a href="https://github.com/B63-9023/tugas-php-04">Tugas 4 CSS</a> - Operator Aritmatika.</li>
+<li><a href="https://github.com/B63-9023/tugas-php-05">Tugas 5 CSS</a> - Logika & Operator String</li>
+<li><a href="https://github.com/B63-9023/tugas-php-06">Tugas 6 CSS</a> - Operator Aritmatika.</li>
+<li><a href="https://github.com/B63-9023/tugas-php-07">Tugas 7 CSS</a> - Struktur Logika, If Else & Switch.</li>
+<li><a href="https://github.com/B63-9023/tugas-php-08">Tugas 8 CSS</a> - Perulangan Do While, Foreach.</li>
+<li><a href="https://github.com/B63-9023/tugas-php-09">Tugas 9 CSS</a> - Perulangan Do While, Foreach.</li>
+<li><a href="https://github.com/B63-9023/tugas-php-10">Tugas 10 CSS</a> - Array & Buble Sorting</li>
